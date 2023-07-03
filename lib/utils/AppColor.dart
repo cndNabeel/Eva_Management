@@ -9,5 +9,6 @@ class AppColor{
     static const buttonGreen = Color(0xff86b049);
     static const showDialogBoxColor = Color(0xffBDD99E);
     static const textInputFieldBorder = Color.fromRGBO(136,14,79, .4);
+    static const textBlack = Colors.black;
 
 }
